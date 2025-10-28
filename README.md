@@ -47,7 +47,7 @@ Our results can be replicated by running the scripts *verification_uniform.sh* a
 
 ---
 
-## 🔍 RelateExternald Implementations
+## 🔍 External Implementations
 
 ### FORI-LP and FORI
 
